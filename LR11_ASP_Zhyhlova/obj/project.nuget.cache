@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "02JBfGYU7trh17piss0v0aGlLLqiAkmD0i4tell7S1zoPa9NQV/3+oYiqYpcmG/7DykrYTsildMsp6lDkihlnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\katyl\\source\\repos\\LR11_ASP_Zhyhlova\\LR11_ASP_Zhyhlova\\LR11_ASP_Zhyhlova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katyl\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
